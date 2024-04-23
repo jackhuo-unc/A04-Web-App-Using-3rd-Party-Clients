@@ -3,7 +3,6 @@ import fetch from "node-fetch";
 import cors from 'cors';
 const app = express();
 const PORT = 3000;
-const API_KEY = 'sk-proj-K1LMhYKsbjJFLRvduh6WT3BlbkFJ3vzhL5hCUIObZgQREhrJ';
 
 app.use(cors());
 
